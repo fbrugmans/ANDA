@@ -7,6 +7,6 @@ Model 1. We model orientation as a nematic order parameter on a curved manifold 
 
 Model 2. We further introduce a slow scalar material field representing generic biomaterial accumulation, stiffening, or reduced dynamic accessibility, showing how defect-mediated orientation patterns may become stabilised as material memory or mechanochemical lock-in.
 
-ANDA1_fixed.py is Model 1 simulation
+ANDA1_fixed.py is Model 1 simulation, 
 cotangent_amplitude_cgi_visualized.py is robustness test of Model 1
 ANDA_model2_slow_material_coupling.py is Model 2 simulation
